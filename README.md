@@ -26,3 +26,7 @@ One I would recommend from there:
 
 \#*This line is needed to delete the index column of the dataframe and export your data*  
 &emsp;results.to_csv(file,index=False) 
+
+### Pandas
+In order to use pandas you must first install it.  
+In the terminal or powershell enter:  **pip3 install pandas**
